@@ -1,0 +1,1 @@
+"#The project randomly generates an numbers in an array or arbitrary size. After the creation of an array filled with random numbers, it then proceeds to sort the array using quick sort. After the quicksort, it then runs through the sorted array and finds the lowest positive integer that is not in the array." 
